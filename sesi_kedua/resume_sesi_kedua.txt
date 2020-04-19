@@ -1,0 +1,22 @@
+# ===========================
+
+# ***************************
+# Workshop Python Series Programs 2
+# Pemateri      : Hadi Hidayat Hammurabi
+# Source Code   : Hadi Hidayat Hammurabi
+# Source        : Praxis Academy dan Padekopan Asa Wedomartini
+# ***************************
+
+# ***************************
+# Author        : Salim Suprayogi
+# Sabtu, 18 april 2020
+# Pukul 10.00-12.00 WIB
+# ***************************
+
+# ===========================
+
+kalau fitur yang banyak gunakan djanggo [ full fiturnya [db,dumy data,vies, dll] ]
+bikin service kecil / banyak service tapi kecil2 gunakan flask
+
+# minggu depan rest api 
+# yang udah daftar sesi 1 dan 2 tidak perlu daftar lagi, akan di info lagi nanti
