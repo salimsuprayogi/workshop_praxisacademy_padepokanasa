@@ -1,0 +1,92 @@
+# ===========================
+
+# ***************************
+# Workshop Python Series Programs 1
+# Pemateri      : Hadi Hidayat Hammurabi
+# Source Code   : Hadi Hidayat Hammurabi
+# Source        : Praxis Academy dan Padekopan Asa Wedomartini
+# ***************************
+
+# ***************************
+# Author        : Salim Suprayogi
+# Sabtu, 11 April 2020
+# Pukul 10.00-12.00 WIB
+# ***************************
+
+# ===========================
+
+# ===========================
+Resume Workshop
+# ===========================
+
+# ***************************
+Membahas Dasar-Dasar Python
+- Mode Interaktif
+- Struktur data
+- Variabel dan Tipe data
+- Operasi Artimatika
+- Kendali Alur Programs
+- Struktur Data 
+- Fungsi
+# ***************************
+
+# ===========================
+for: tolong push up sampai 10 kali
+[ batasannya jelas ]
+while: tolong pushup sampai kamu capek [ ini bisa 2,3 100....... ]
+[ batasannya tidak ditentukan]
+# ===========================
+
+# ===========================
+struktur data:
+lebih dari satu data
+
+tuple:
+real= untuk pengaturan2 yang tidak bisa di ubah, membatasi perubahan
+
+dict :
+https://stackoverflow.com/questions/57150426/what-is-printf
+
+thisdict =	[{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+},{
+  "brand": "Ford X",
+  "model": "Mustang X",
+  "year": 1965
+}];
+
+print(thisdict[0]["year"])
+
+for x in thisdict:
+  print(x["year"])
+# ===========================
+
+# ===========================
+Fungsi 
+
+konversi dolllar ke rupiah
+
+kode editor online
+https://www.onlinegdb.com/online_python_compiler
+
+yang kita masukkan di parameter, naanya argument
+kl di dalam fungsi namanya parameter
+# ===========================
+
+# ===========================
+aktitifas di dalam python banyak menggunakan fungsi
+# ===========================
+
+# ===========================
+materi minggu depan:
+-flask 
+-untuk belajar microframwork
+# ===========================
+https://s.id/5Xekw
+awal mei 
+python
+frontend
+mobile
+# ===========================
